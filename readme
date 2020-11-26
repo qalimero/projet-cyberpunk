@@ -1,0 +1,32 @@
+Lien vers Kanban : https://www.wrike.com/workspace.htm?acc=4142297#path=folder&id=583695116&c=board&vid=9899492&p=583691857&a=4142297&so=10&bso=10&sd=1&f=stageIds%3D54527460&st=space-583691857&sfi=1
+
+CREER UN TRIANGLE EN P5.js :
+! Attention mettre le background dans le draw sinon le background de la forme s'étendra au déplacement !
+triangle(x1, y1, x2, y2, x3, y3)
+
+
+FAIRE UNE BOUCLE :
+
+Opérateur :
+
+- < Opérateur inférieur strict
+- > Opérateur supérieur strict
+- <= Opérateur inférieur ou égal
+- => Opérateur supérieur ou égal
+- == Opérateur d'égalité faible
+- != Opérateur d'inégalité faible
+- === Opérateur d'égalité stricte
+- || Opérateur logique OU
+
+CREER UN CONSTRUCTEUR :
+
+- Creer un bloc fonctionnel ( une fonction )
+- Ajouter des propriétés et des valeurs ( this.x = height/2 ) --> Exemple
+- Ajouter des méthodes --> on utilise THIS car on veut transformer une fonction en méthode objet
+- Creer objet / décalration d'une variable + initialise l'objet en ajoutant NEW devant la fonction transormé en methode ( que on appelle dans le setup )
+
+COULEUR TRIANGLE :
+
+Le violet --> HEX = #552FC1 / HUE = 210 ;  SATURATION = 18 ; VALUE = 73,
+Le rouge --> HEX = #4b040e / HSV = 352 ; 94% ; 29% / HSL = 352 ; 90% ; 16%,
+Le rose --> HEX = #c450e1 / HSV = 288 ; 64% ; 88% /HSL = 288 ; 71% ; 60%,

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="832afa52-cfda-4715-9a30-a51f57894a14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j3AoXzKNEJMXG4imQ0vsJsrifh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quent\WebstormProjects\Processing\css" />
+      <recent name="C:\Users\quent\WebstormProjects\Processing\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="832afa52-cfda-4715-9a30-a51f57894a14" name="Default Changelist" comment="" />
+      <created>1603022576887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603022576887</updated>
+      <workItem from="1603022577922" duration="1840000" />
+      <workItem from="1603391245777" duration="4240000" />
+      <workItem from="1603402265108" duration="1018000" />
+      <workItem from="1603486620921" duration="1590000" />
+      <workItem from="1603710281897" duration="1209000" />
+      <workItem from="1603723267457" duration="12627000" />
+      <workItem from="1603804085805" duration="6065000" />
+      <workItem from="1603879364085" duration="1802000" />
+      <workItem from="1604434661016" duration="1343000" />
+      <workItem from="1604438715037" duration="7572000" />
+      <workItem from="1604523429995" duration="6923000" />
+      <workItem from="1604689246973" duration="245000" />
+      <workItem from="1604954680021" duration="1775000" />
+      <workItem from="1605105907123" duration="1208000" />
+      <workItem from="1605130896691" duration="2510000" />
+      <workItem from="1605825616351" duration="2768000" />
+      <workItem from="1605987619208" duration="580000" />
+      <workItem from="1606053022966" duration="16252000" />
+      <workItem from="1606159462443" duration="10978000" />
+      <workItem from="1606257292535" duration="7861000" />
+      <workItem from="1606343952255" duration="2516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603490935844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603490935844" />
+    <state x="1647" y="383" key="FileChooserDialogImpl" timestamp="1606348847560">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1647" y="383" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606348847560" />
+    <state x="615" y="222" key="SettingsEditor" timestamp="1606348287422">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606065846189" />
+    <state x="615" y="222" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606348287422" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604530888028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1604530888028" />
+    <state x="1053" y="100" width="871" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604527301516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="871" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604527301516" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606261875666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606261875666" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604445806620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604445806620" />
+  </component>
+</project>
